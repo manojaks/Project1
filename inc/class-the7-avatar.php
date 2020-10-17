@@ -7,6 +7,9 @@
 
 defined( 'ABSPATH' ) || exit;
 
+
+
+  
 /**
  * Class The7_Avatar
  */
