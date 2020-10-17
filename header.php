@@ -7,6 +7,8 @@
  * @package The7\Templates
  */
 
+ 
+
 defined( 'ABSPATH' ) || exit;
 
 get_template_part( 'header-single' );
